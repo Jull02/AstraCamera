@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinectPosturaAPI", "KinectPosturaAPI\KinectPosturaAPI.csproj", "{C4A81C86-9449-462F-971F-0404E6D334D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4A81C86-9449-462F-971F-0404E6D334D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4A81C86-9449-462F-971F-0404E6D334D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4A81C86-9449-462F-971F-0404E6D334D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4A81C86-9449-462F-971F-0404E6D334D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2CA29D4-D495-445F-A893-0F26F0C05A12}
+	EndGlobalSection
+EndGlobal

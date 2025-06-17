@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A81C86-9449-462F-971F-0404E6D334D7}|KinectPosturaAPI\\KinectPosturaAPI.csproj|d:\\udla\\titulacion\\kinectevaluation(astra)\\kinectposturaapi\\kinectposturaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A81C86-9449-462F-971F-0404E6D334D7}|KinectPosturaAPI\\KinectPosturaAPI.csproj|solutionrelative:kinectposturaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A81C86-9449-462F-971F-0404E6D334D7}|KinectPosturaAPI\\KinectPosturaAPI.csproj|d:\\udla\\titulacion\\kinectevaluation(astra)\\kinectposturaapi\\kinectposturaapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4A81C86-9449-462F-971F-0404E6D334D7}|KinectPosturaAPI\\KinectPosturaAPI.csproj|solutionrelative:kinectposturaapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A81C86-9449-462F-971F-0404E6D334D7}|KinectPosturaAPI\\KinectPosturaAPI.csproj|d:\\udla\\titulacion\\kinectevaluation(astra)\\kinectposturaapi\\kinectposturaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4A81C86-9449-462F-971F-0404E6D334D7}|KinectPosturaAPI\\KinectPosturaAPI.csproj|solutionrelative:kinectposturaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A81C86-9449-462F-971F-0404E6D334D7}|KinectPosturaAPI\\KinectPosturaAPI.csproj|d:\\udla\\titulacion\\kinectevaluation(astra)\\kinectposturaapi\\kinectposturaapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4A81C86-9449-462F-971F-0404E6D334D7}|KinectPosturaAPI\\KinectPosturaAPI.csproj|solutionrelative:kinectposturaapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A81C86-9449-462F-971F-0404E6D334D7}|KinectPosturaAPI\\KinectPosturaAPI.csproj|d:\\udla\\titulacion\\kinectevaluation(astra)\\kinectposturaapi\\kinectposturaapi\\controllers\\sesionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A81C86-9449-462F-971F-0404E6D334D7}|KinectPosturaAPI\\KinectPosturaAPI.csproj|solutionrelative:kinectposturaapi\\controllers\\sesionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A81C86-9449-462F-971F-0404E6D334D7}|KinectPosturaAPI\\KinectPosturaAPI.csproj|d:\\udla\\titulacion\\kinectevaluation(astra)\\kinectposturaapi\\kinectposturaapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A81C86-9449-462F-971F-0404E6D334D7}|KinectPosturaAPI\\KinectPosturaAPI.csproj|solutionrelative:kinectposturaapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A81C86-9449-462F-971F-0404E6D334D7}|KinectPosturaAPI\\KinectPosturaAPI.csproj|d:\\udla\\titulacion\\kinectevaluation(astra)\\kinectposturaapi\\kinectposturaapi\\models\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A81C86-9449-462F-971F-0404E6D334D7}|KinectPosturaAPI\\KinectPosturaAPI.csproj|solutionrelative:kinectposturaapi\\models\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "KinectPosturaAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\Properties\\launchSettings.json*",
+              "RelativeToolTip": "KinectPosturaAPI\\Properties\\launchSettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T02:29:54.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SesionesController.cs",
+              "DocumentMoniker": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\Controllers\\SesionesController.cs",
+              "RelativeDocumentMoniker": "KinectPosturaAPI\\Controllers\\SesionesController.cs",
+              "ToolTip": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\Controllers\\SesionesController.cs*",
+              "RelativeToolTip": "KinectPosturaAPI\\Controllers\\SesionesController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T02:15:28.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "KinectPosturaAPI\\appsettings.Development.json",
+              "ToolTip": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\appsettings.Development.json",
+              "RelativeToolTip": "KinectPosturaAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T02:13:59.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "KinectPosturaAPI\\Program.cs",
+              "ToolTip": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\Program.cs*",
+              "RelativeToolTip": "KinectPosturaAPI\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T02:12:30.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "KinectPosturaAPI\\appsettings.json",
+              "ToolTip": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\appsettings.json*",
+              "RelativeToolTip": "KinectPosturaAPI\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T02:12:10.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "KinectPosturaAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\Data\\AppDbContext.cs*",
+              "RelativeToolTip": "KinectPosturaAPI\\Data\\AppDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T02:11:40.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sesion.cs",
+              "DocumentMoniker": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\Models\\Sesion.cs",
+              "RelativeDocumentMoniker": "KinectPosturaAPI\\Models\\Sesion.cs",
+              "ToolTip": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\Models\\Sesion.cs*",
+              "RelativeToolTip": "KinectPosturaAPI\\Models\\Sesion.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T02:10:34.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "KinectPosturaAPI.Controllers.SesionesController",
+    "Method": "RegistrarSesion",
+    "RelativePath": "api/Sesiones",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sesion",
+        "Type": "KinectPosturaAPI.Models.Sesion",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KinectPosturaAPI.Controllers.SesionesController",
+    "Method": "ObtenerSesiones",
+    "RelativePath": "api/Sesiones",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
