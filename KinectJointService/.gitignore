@@ -1,0 +1,47 @@
+# Ignore archivos de Visual Studio / .NET
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Carpetas de compilación
+bin/
+obj/
+
+# Archivos generados por el sistema
+*.log
+*.tmp
+*.bak
+
+# Archivos de configuración local
+*.local.json
+
+# Ignorar modelos ONNX y librerías pesadas si están en la ruta del proyecto
+*.onnx
+*.onnx.*
+*.dll
+*.lib
+*.pdb
+
+# Si los modelos y librerías están en una carpeta externa o temporal, ignora esa ruta también
+# Ajusta el path si usas otra ubicación
+C:/TempKinectModel/
+C:/KinectService/
+
+# Datos generados en tiempo de ejecución (opcional)
+*.csv
+*.mp4
+*.jpg
+*.png
+
+# Ignorar archivos de Rider / JetBrains
+.idea/
+
+# Archivos de build cruzado
+*.exe
+*.zip
+*.tar.gz
+
+# Carpetas de publicación
+publish/
