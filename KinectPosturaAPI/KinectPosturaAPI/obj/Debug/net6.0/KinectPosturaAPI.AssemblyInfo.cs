@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KinectPosturaAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a77e576494067c9938df196703e8257d6be0278e")]
 [assembly: System.Reflection.AssemblyProductAttribute("KinectPosturaAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KinectPosturaAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

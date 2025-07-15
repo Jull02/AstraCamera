@@ -21,12 +21,6 @@ D:\UDLA\Titulacion\KinectEvaluation(Astra)\KinectPosturaAPI\KinectPosturaAPI\obj
 D:\UDLA\Titulacion\KinectEvaluation(Astra)\KinectPosturaAPI\KinectPosturaAPI\obj\Debug\net6.0\staticwebassets.build.json
 D:\UDLA\Titulacion\KinectEvaluation(Astra)\KinectPosturaAPI\KinectPosturaAPI\obj\Debug\net6.0\staticwebassets.development.json
 D:\UDLA\Titulacion\KinectEvaluation(Astra)\KinectPosturaAPI\KinectPosturaAPI\obj\Debug\net6.0\staticwebassets.build.endpoints.json
-D:\UDLA\Titulacion\KinectEvaluation(Astra)\KinectPosturaAPI\KinectPosturaAPI\obj\Debug\net6.0\staticwebassets\msbuild.KinectPosturaAPI.Microsoft.AspNetCore.StaticWebAssets.props
-D:\UDLA\Titulacion\KinectEvaluation(Astra)\KinectPosturaAPI\KinectPosturaAPI\obj\Debug\net6.0\staticwebassets\msbuild.KinectPosturaAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-D:\UDLA\Titulacion\KinectEvaluation(Astra)\KinectPosturaAPI\KinectPosturaAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.KinectPosturaAPI.props
-D:\UDLA\Titulacion\KinectEvaluation(Astra)\KinectPosturaAPI\KinectPosturaAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.KinectPosturaAPI.props
-D:\UDLA\Titulacion\KinectEvaluation(Astra)\KinectPosturaAPI\KinectPosturaAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.KinectPosturaAPI.props
-D:\UDLA\Titulacion\KinectEvaluation(Astra)\KinectPosturaAPI\KinectPosturaAPI\obj\Debug\net6.0\staticwebassets.pack.json
 D:\UDLA\Titulacion\KinectEvaluation(Astra)\KinectPosturaAPI\KinectPosturaAPI\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
 D:\UDLA\Titulacion\KinectEvaluation(Astra)\KinectPosturaAPI\KinectPosturaAPI\obj\Debug\net6.0\KinectPo.E5053A12.Up2Date
 D:\UDLA\Titulacion\KinectEvaluation(Astra)\KinectPosturaAPI\KinectPosturaAPI\obj\Debug\net6.0\KinectPosturaAPI.dll
@@ -34,3 +28,9 @@ D:\UDLA\Titulacion\KinectEvaluation(Astra)\KinectPosturaAPI\KinectPosturaAPI\obj
 D:\UDLA\Titulacion\KinectEvaluation(Astra)\KinectPosturaAPI\KinectPosturaAPI\obj\Debug\net6.0\KinectPosturaAPI.pdb
 D:\UDLA\Titulacion\KinectEvaluation(Astra)\KinectPosturaAPI\KinectPosturaAPI\obj\Debug\net6.0\KinectPosturaAPI.genruntimeconfig.cache
 D:\UDLA\Titulacion\KinectEvaluation(Astra)\KinectPosturaAPI\KinectPosturaAPI\obj\Debug\net6.0\ref\KinectPosturaAPI.dll
+D:\UDLA\Titulacion\KinectEvaluation(Astra)\KinectPosturaAPI\KinectPosturaAPI\obj\Debug\net6.0\rpswa.dswa.cache.json
+D:\UDLA\Titulacion\KinectEvaluation(Astra)\KinectPosturaAPI\KinectPosturaAPI\obj\Debug\net6.0\KinectPosturaAPI.sourcelink.json
+D:\UDLA\Titulacion\KinectEvaluation(Astra)\KinectPosturaAPI\KinectPosturaAPI\obj\Debug\net6.0\rjimswa.dswa.cache.json
+D:\UDLA\Titulacion\KinectEvaluation(Astra)\KinectPosturaAPI\KinectPosturaAPI\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+D:\UDLA\Titulacion\KinectEvaluation(Astra)\KinectPosturaAPI\KinectPosturaAPI\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+D:\UDLA\Titulacion\KinectEvaluation(Astra)\KinectPosturaAPI\KinectPosturaAPI\obj\Debug\net6.0\staticwebassets.build.json.cache

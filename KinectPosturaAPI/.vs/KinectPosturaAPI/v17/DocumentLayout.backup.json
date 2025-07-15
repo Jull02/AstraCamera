@@ -54,12 +54,11 @@
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "KinectPosturaAPI\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\Properties\\launchSettings.json*",
-              "RelativeToolTip": "KinectPosturaAPI\\Properties\\launchSettings.json*",
+              "ToolTip": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "KinectPosturaAPI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-16T02:29:54.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T02:29:54.629Z"
             },
             {
               "$type": "Document",
@@ -67,12 +66,11 @@
               "Title": "SesionesController.cs",
               "DocumentMoniker": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\Controllers\\SesionesController.cs",
               "RelativeDocumentMoniker": "KinectPosturaAPI\\Controllers\\SesionesController.cs",
-              "ToolTip": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\Controllers\\SesionesController.cs*",
-              "RelativeToolTip": "KinectPosturaAPI\\Controllers\\SesionesController.cs*",
+              "ToolTip": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\Controllers\\SesionesController.cs",
+              "RelativeToolTip": "KinectPosturaAPI\\Controllers\\SesionesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T02:15:28.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T02:15:28.515Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "KinectPosturaAPI\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-16T02:13:59.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T02:13:59.705Z"
             },
             {
               "$type": "Document",
@@ -93,9 +90,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\Program.cs",
               "RelativeDocumentMoniker": "KinectPosturaAPI\\Program.cs",
-              "ToolTip": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\Program.cs*",
-              "RelativeToolTip": "KinectPosturaAPI\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "ToolTip": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\Program.cs",
+              "RelativeToolTip": "KinectPosturaAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T02:12:30.965Z",
               "EditorCaption": ""
@@ -106,12 +103,11 @@
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\appsettings.json",
               "RelativeDocumentMoniker": "KinectPosturaAPI\\appsettings.json",
-              "ToolTip": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\appsettings.json*",
-              "RelativeToolTip": "KinectPosturaAPI\\appsettings.json*",
+              "ToolTip": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\appsettings.json",
+              "RelativeToolTip": "KinectPosturaAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-16T02:12:10.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T02:12:10.004Z"
             },
             {
               "$type": "Document",
@@ -119,12 +115,11 @@
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "KinectPosturaAPI\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\Data\\AppDbContext.cs*",
-              "RelativeToolTip": "KinectPosturaAPI\\Data\\AppDbContext.cs*",
+              "ToolTip": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "KinectPosturaAPI\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T02:11:40.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T02:11:40.252Z"
             },
             {
               "$type": "Document",
@@ -132,12 +127,11 @@
               "Title": "Sesion.cs",
               "DocumentMoniker": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\Models\\Sesion.cs",
               "RelativeDocumentMoniker": "KinectPosturaAPI\\Models\\Sesion.cs",
-              "ToolTip": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\Models\\Sesion.cs*",
-              "RelativeToolTip": "KinectPosturaAPI\\Models\\Sesion.cs*",
+              "ToolTip": "D:\\UDLA\\Titulacion\\KinectEvaluation(Astra)\\KinectPosturaAPI\\KinectPosturaAPI\\Models\\Sesion.cs",
+              "RelativeToolTip": "KinectPosturaAPI\\Models\\Sesion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T02:10:34.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T02:10:34.075Z"
             }
           ]
         }
